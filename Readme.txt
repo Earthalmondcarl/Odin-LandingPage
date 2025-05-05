@@ -1,0 +1,2 @@
+The following project unlike the previous one , contains cascading style shee tin order to bring life tho the webpage.
+rather challenging but no too much . A few questions on google to help tackle the areas i wasn too well versed in is all it took.
